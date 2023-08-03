@@ -1,0 +1,7 @@
+README
+At first download the dataset using this link : https://data.ontario.ca/dataset/363fff31-6a07-41eb-9922-e9b64192b08b/resource/83295b7d-688a-4996-9f0c-b8bea49c0360/download/ontario_public_library_statistics_2022_open_data.csv
+Then install required packages as in the code . 
+First we perform the EDA process 
+Then we Do dataprocessing 
+We use machine learning algorithms and train and test data 
+Finnaly we plot charts to get meaningful insights 
